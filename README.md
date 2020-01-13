@@ -1,13 +1,18 @@
-## Welcome to GitHub Pages
+## My pythin journey so far...
 
 You can use the [editor on GitHub](https://github.com/aiworld2020/pythonprojects/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Rock Paper Scissor Game
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Rules of the Game:
+The objective of Rock, Paper, Scissors is to defeat your opponent by selecting a weapon that
+defeats their choice under the following rules:
+- Rock smashes (or blunts) Scissors, so Rock wins
+- Scissors cut Paper, so Scissors win
+- Paper covers Rock, so Paper wins
+- If players choose the same weapon, neither win and the game is played again
 ```markdown
 Syntax highlighted code block
 
