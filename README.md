@@ -16,11 +16,6 @@ defeats their choice under the following rules:
 ### File Operations
 1. 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 
 
