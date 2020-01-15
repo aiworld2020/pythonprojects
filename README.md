@@ -13,6 +13,9 @@ defeats their choice under the following rules:
 - If players choose the same weapon, neither win and the game is played again
 
 ### Fibonacci Series
+Asks for the user's input and generates the Fibonacci series.
+1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, . . .
+
 ### File Operations
 1. 
 
