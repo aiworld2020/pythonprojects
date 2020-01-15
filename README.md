@@ -14,7 +14,7 @@ defeats their choice under the following rules:
 
 ### Fibonacci Series
 Asks for the user's input and generates the Fibonacci series.
-1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, . . .
+<br>1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, . . .
 
 ### File Operations
 1. 
