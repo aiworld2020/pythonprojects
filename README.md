@@ -17,9 +17,14 @@ Asks for the user's input and generates the Fibonacci series.
 <br>1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, . . .
 
 ### File Operations
-1. 
+1. Reads the information from a GDP file and uneployment information from a seperate CSV file.
+2. Takes the user input and provides consolidated information about GDP and unemploymet for that year.
+3. If the information is not available for that year, then the program gives an error.
 
-
+### Bank File Processing
+1. Reads the customer's information and their account balance from a file.
+2. Takes the series of the user's input about the credit and debit on the customer's account.
+3. Generates a new output file with the new balance for every customer.
 
 
 ### Support or Contact
