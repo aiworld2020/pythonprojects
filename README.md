@@ -12,6 +12,10 @@ defeats their choice under the following rules:
 - Paper covers Rock, so Paper wins
 - If players choose the same weapon, neither win and the game is played again
 
+2. Number 99 Magic game
+ - Makes the user guess a number between 50 - 99
+ - Does a series of caculations using another number between 10 and 49, and outputs the user's guessed number.
+ 
 ### Fibonacci Series
 Asks for the user's input and generates the Fibonacci series.
 <br>1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, . . .
@@ -26,6 +30,7 @@ Asks for the user's input and generates the Fibonacci series.
 2. Takes the series of the user's input about the credit and debit on the customer's account.
 3. Generates a new output file with the new balance for every customer.
 
+ 
 
 ### Support or Contact
 
